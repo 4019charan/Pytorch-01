@@ -15,7 +15,7 @@ Batch-Normalization (BN) is an algorithmic method which makes the training of De
 It consists of normalizing activation vectors from hidden layers using the first and the second statistical moments (mean and variance) of the current batch. This normalization step is applied right before (or right after) the nonlinear function.
 
 
-
+![My Image](BN.webp)
 
 Multilayer Perceptron (MLP) without batch normalization (BN) | Credit : author - Design : Lou HD
 
