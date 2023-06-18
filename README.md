@@ -16,9 +16,12 @@ It consists of normalizing activation vectors from hidden layers using the first
 
 
 
+
 Multilayer Perceptron (MLP) without batch normalization (BN) | Credit : author - Design : Lou HD
+
+
 
 Multilayer Perceptron (MLP) with batch normalization (BN) | Credit : author - Design : Lou HD
 All the current deep learning frameworks have already implemented methods which apply batch normalization. It is usually used as a module which could be inserted as a standard layer in a DNN.
 
-Remark : For those who prefer read code than text, I wrote a simple implementation of Batch Normalization in this repo.
+Remark : For those who prefer read code than text, I wrote this simple implementation of Batch Normalization in this repo.
