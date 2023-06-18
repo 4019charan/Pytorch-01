@@ -25,3 +25,4 @@ Multilayer Perceptron (MLP) with batch normalization (BN) | Credit : author - De
 All the current deep learning frameworks have already implemented methods which apply batch normalization. It is usually used as a module which could be inserted as a standard layer in a DNN.
 
 Remark : For those who prefer read code than text, I wrote this simple implementation of Batch Normalization in this repo.
+
