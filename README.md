@@ -1,4 +1,4 @@
-# Pytorch-01
+# Pytorch-01 (CNN vs Batch CNN)
 Me messing with Pytorch
 
 Hi All,
